@@ -1,16 +1,9 @@
 # assginmnt
 
-A new Flutter project.
+In this project i uses the api 'https://jsonplaceholder.typicode.com/posts' which return the data in the json format 
+and display the data in the ListView and provide the functionality to the user to add or delete the element from the json list
 
-## Getting Started
+Here is the demo video:-
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/113275452/217432348-d98da013-bb9a-4d06-ac39-55866507a4fb.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
